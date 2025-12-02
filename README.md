@@ -1,6 +1,10 @@
 # Project Resources
 
-Welcome to the project directory. Below are the key resources available:
+Welcome to the project directory. This repository contains the source code for a Secure Learning Platform, a semester project developed for the "Security in Software Engineering" course at the Faculty of Sciences, University of Porto.
+
+The project aims to build a robust online course management system that integrates security best practices from the beginning of the development lifecycle (following the "Shift Left" and DevSecOps principles) rather than treating security as an afterthought. 
+
+Below are the key resources available:
 
 ## 📂 Contents
 
