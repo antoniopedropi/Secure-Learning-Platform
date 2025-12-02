@@ -9,7 +9,7 @@ Below are the key resources available:
 ## 📂 Contents
 
 - **📊 Presentation**: Our project presentation can be found [here](./presentation.pdf). We also uploaded the presentation in the .pptx format.
-- **📑 Report**: The detailed project report is available [here](./report.pdf).
+- **📑 Report**: The detailed project report is available [here](./report_PT.pdf).
 - **💻 Source Code**: Explore the full source code [here](./src).
 
 Feel free to navigate through these files to get a comprehensive understanding of our project.
